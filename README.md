@@ -30,7 +30,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 <p  align = 'center'>
   <img title = 'score' alt ='score' src="https://github-readme-stats.vercel.app/api?username=senhorinfinito&hide=prs,issues,contribs?username=senhorinfinito&count_private=true?username=senhorinfinito&show_icons=true&theme=radical" width = 640 height = 180 />
 </p>
-
+ 
 **Updates**
 
 * 💻 I'm currently looking for a position in the field of **Machine Learning, Deep Learning & Data science**
