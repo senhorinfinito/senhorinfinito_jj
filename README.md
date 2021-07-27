@@ -16,6 +16,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 - ⚡ [Clustering Analysis -  Decision Making for Facility alloaction](https://github.com/senhorinfinito/ibm_coursera_capstone/blob/master/week5/week5all.ipynb)
 - ⚡ [Web data scrapper using Beautiful Soup](https://github.com/senhorinfinito/scrappers)
 
+
 **My skills include**
 
 <p align = 'center'>
@@ -42,6 +43,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 **Targets**
 - 🔭 I’m currently working on:
 	- [ ] Natural Language Processing 
+	- [ ] 365DayasofMachineLearning
 	- [ ] Deep learning Project
 	- [ ] Classification Project
 	- [x] Looking for a job - Onging
