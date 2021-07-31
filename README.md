@@ -52,7 +52,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 **Note**	
 
 <p align="center">
-	<strong>Consider giving my work a :star: to show some :heart:</strong>
+	<strong>Consider giving my work a :star: to show some :heart: </strong>
 </p>
 
 <hr>
