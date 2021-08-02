@@ -36,14 +36,14 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 **Updates**
 
 * 💻 I'm currently looking for a position in the field of **Machine Learning, Deep Learning & Data science**
-* 📖 I working on the learning challenge called [**365 Days of Machine Learning**]()
+* 📖 I working on the learning challenge called [**365 Days of Machine Learning**](https://github.com/senhorinfinito/365Days_MachineLearningDeepLearning)
 * 🔗 I’m currently learning from [nltk.org](https://www.nltk.org/) and reading Books and Online materials.
 * 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
 **Targets**
 - 🔭 I’m currently working on:
-	- [ ] [Natural Language Processing](https://github.com/senhorinfinito/365Days_MachineLearningDeepLearning) 
-	- [ ] [365DayasofMachineLearning](https://github.com/senhorinfinito/NaturalLanguageProcessing)
+	- [ ] [Natural Language Processing](https://github.com/senhorinfinito/NaturalLanguageProcessing) 
+	- [ ] [365DayasofMachineLearning](https://github.com/senhorinfinito/365Days_MachineLearningDeepLearning)
 	- [ ] Deep learning Project
 	- [ ] Classification Project
 	- [x] Looking for a job - Onging
