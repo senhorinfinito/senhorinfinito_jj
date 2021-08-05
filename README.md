@@ -6,8 +6,12 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 [![License: MIT](https://img.shields.io/badge/License-MIT-Green.svg)](https://opensource.org/licenses/MIT)
 
 
+**Onging Learning Highlights**
+- ⚡ [365 days of data- Machine Learning & Deep Learning](https://github.com/senhorinfinito/365Days_MachineLearningDeepLearning)
+- ⚡ [66 days of data NLP](https://github.com/senhorinfinito/NaturalLanguageProcessing)
 
-**Learning Highlights**
+
+**Project Highlights**
 - ⚡ [House Price Rental Analysis - Model Building](https://github.com/senhorinfinito/rental_price_analysis)
 - ⚡ [House Price Rental Analysis - Model Deployment](https://github.com/senhorinfinito/rental_deployment)
 - ⚡ [Selenium Tool for Airlines review scraping](https://github.com/senhorinfinito/scrappers/blob/main/air_india/data_scrapper.ipynb)
