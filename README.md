@@ -7,7 +7,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 
 
 **Onging Learning Highlights**
-- ⚡ [365 days of data- Machine Learning & Deep Learning](https://github.com/senhorinfinito/365Days_MachineLearningDeepLearning)
+- ⚡ [365 days of data- Machine Learning & Deep Learning](https://github.com/senhorinfinito/365daysofdata_ML_DL)
 - ⚡ [66 days of data NLP](https://github.com/senhorinfinito/NaturalLanguageProcessing)
 
 
