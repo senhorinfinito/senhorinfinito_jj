@@ -41,11 +41,10 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 
 **Targets**
 - 🔭 I’m currently working on:
-	- [ ] [Natural Language Processing](https://github.com/senhorinfinito/NaturalLanguageProcessing) 
 	- [ ] [365DayasofMachineLearning](https://github.com/senhorinfinito/365Days_MachineLearningDeepLearning)
 	- [ ] Deep learning Project
-	- [ ] Classification Project
-	- [x] Looking for a job - Onging
+	- [x] Classification Project
+	- [x] Looking for a job 
 - :bulb: I'm interested in all things data: **Machine Learning, deep learning, stat and Data Science**
 
 **Note**	
