@@ -8,16 +8,11 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 
 **Onging Learning Highlights**
 - ⚡ [365 days of data- Machine Learning & Deep Learning](https://github.com/senhorinfinito/365daysofdata_ML_DL)
-- ⚡ [66 days of data NLP](https://github.com/senhorinfinito/NaturalLanguageProcessing)
 
 
 **Project Highlights**
 - ⚡ [House Price Rental Analysis - Model Building](https://github.com/senhorinfinito/rental_price_analysis)
-- ⚡ [House Price Rental Analysis - Model Deployment](https://github.com/senhorinfinito/rental_deployment)
-- ⚡ [Selenium Tool for Airlines review scraping](https://github.com/senhorinfinito/scrappers/blob/main/air_india/data_scrapper.ipynb)
-- ⚡ [Selenium Tool for Mobile specifiaction scraping](https://github.com/senhorinfinito/scrappers/blob/main/mobile_details/details_scrapping.py)
 - ⚡ [Ad Revenue Predication - a case study](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course)
-- ⚡ [Clustering Analysis -  Decision Making for Facility alloaction](https://github.com/senhorinfinito/ibm_coursera_capstone/blob/master/week5/week5all.ipynb)
 - ⚡ [Web data scrapper using Beautiful Soup](https://github.com/senhorinfinito/scrappers)
 
 
