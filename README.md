@@ -39,9 +39,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 
 **Targets**
 - 🔭 I’m currently working on:
-	- [ ] [365DayasofMachineLearning](https://github.com/senhorinfinito/365Days_MachineLearningDeepLearning)
-	- [ ] Deep learning Project
-	- [x] Classification Project
+	- Task will be updated on upcoming sunday* 12th Dec 2021
 - :bulb: I'm interested in all things data: **Machine Learning, deep learning, stat and Data Science**
 
 **Note**	
