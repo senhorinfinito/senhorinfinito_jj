@@ -35,29 +35,6 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 * 💻 I'm currently looking for a position in the field of **Machine Learning, Deep Learning & Data science**
 * 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
-**Targets**
-- 🔭 I’m currently working on:
-	- Task will be updated on upcoming sunday* 12th Dec 2021
-- :bulb: I'm interested in all things data: **Machine Learning, deep learning, stat and Data Science**
-
-**Note**	
-
-<p align="center">
-	<strong>Consider giving my work a :star: to show some :heart: </strong>
-</p>
-
-<hr>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/anantsakhare/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:imanantsakhare@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://www.kaggle.com/anantsakhare"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
-<br>
-</p>       
 
 
 
