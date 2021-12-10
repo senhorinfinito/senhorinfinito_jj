@@ -29,14 +29,6 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 </p>
 
 
- 
-**Updates**
-
-* 💻 I'm currently looking for a position in the field of **Machine Learning, Deep Learning & Data science**
-* 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
-
-
-
 
 
 
