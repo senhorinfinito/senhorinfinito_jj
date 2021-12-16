@@ -6,9 +6,6 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 [![License: MIT](https://img.shields.io/badge/License-MIT-Green.svg)](https://opensource.org/licenses/MIT)
 
 
-
-
-
 **Project Highlights**
 - ⚡ [House Price Rental Analysis - Model Building](https://github.com/senhorinfinito/rental_price_analysis)
 - ⚡ [Ad Revenue Predication - a case study](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course)
