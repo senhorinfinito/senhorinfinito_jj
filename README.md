@@ -6,8 +6,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 [![License: MIT](https://img.shields.io/badge/License-MIT-Green.svg)](https://opensource.org/licenses/MIT)
 
 
-**Onging Learning Highlights**
-- ⚡ [365 days of data- Machine Learning & Deep Learning](https://github.com/senhorinfinito/365daysofdata_ML_DL)
+
 
 
 **Project Highlights**
