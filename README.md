@@ -13,7 +13,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 
 
 **My skills include**
-<!-- 
+
 <p align = 'center'>
   	<img title="Python" alt="Python" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/python.svg" width="40" height="40" />
   	<img title="SQLite" alt="SQLite" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/sqlite.svg" width="40" height="40" />
@@ -22,7 +22,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
   	<img title="windows" alt="windows" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/windows.svg" width="40" height="40" />
   	<img title="html" alt="html" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/html-5.svg" width="40" height="40" />  
   
-</p> -->
+</p>
 
 <!-- ----updating---- -->
 
