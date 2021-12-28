@@ -9,7 +9,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 **Project Highlights**
 - ⚡ [House Price Rental Analysis - Model Building](https://github.com/senhorinfinito/rental_price_analysis)
 - ⚡ [Ad Revenue Predication - a case study](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course)
-- ⚡ [Web data scrapper using Beautiful Soup](https://github.com/senhorinfinito/scrappers)
+<!-- - ⚡ [Web data scrapper using Beautiful Soup](https://github.com/senhorinfinito/scrappers)
 
 
 **My skills include**
@@ -21,10 +21,10 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
   	<img title="Git" alt="Git" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/git.svg" width="40" height="40" />
   	<img title="windows" alt="windows" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/windows.svg" width="40" height="40" />
   	<img title="html" alt="html" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/html-5.svg" width="40" height="40" />  
-  
+   -->
 </p>
 
-<!-- ----updating---- -->
+----updating----
 
 
 
