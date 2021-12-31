@@ -1,6 +1,6 @@
 ### Hi there, ✋ I'm Anant Sakhare 👨 ,
 
-a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitioner** and **Learner**. I like solving problems while learning things.
+A **mechanical engineer**, **Machine Learning** and **Data Science** **Practitioner** and **Learner**. I like solving problems while learning things.
 
 ![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/Anant_Sakhare.svg?cache=remove)
 [![License: MIT](https://img.shields.io/badge/License-MIT-Green.svg)](https://opensource.org/licenses/MIT)
@@ -21,14 +21,7 @@ a **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
   	<img title="Git" alt="Git" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/git.svg" width="40" height="40" />
   	<img title="windows" alt="windows" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/windows.svg" width="40" height="40" />
   	<img title="html" alt="html" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/html-5.svg" width="40" height="40" />  
-  
+
 </p>
 
 ----updating----
-
-
-
-
-
-
-
