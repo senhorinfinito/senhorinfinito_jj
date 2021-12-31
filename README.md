@@ -9,7 +9,7 @@ A **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 **Project Highlights**
 - ⚡ [House Price Rental Analysis - Model Building](https://github.com/senhorinfinito/rental_price_analysis)
 - ⚡ [Ad Revenue Predication - a case study](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course)
-- ⚡ [Web data scrapper using Beautiful Soup](https://github.com/senhorinfinito/scrappers)
+- ⚡ [Web data scrapper using Beautiful Soup](https://github.com/senhorinfinito/scrappers)  -  Completed
 
 
 **My skills include**
