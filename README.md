@@ -1,4 +1,4 @@
-### Hi there, ✋ I'm Anant Sakhare 👨 ,
+<!-- ### Hi there, ✋ I'm Anant Sakhare 👨 ,
 
 A **mechanical engineer**, **Machine Learning** and **Data Science** **Practitioner** and **Learner**. I like solving problems while learning things.
 
@@ -26,3 +26,4 @@ A **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
 
 ----updating----
 
+ -->
