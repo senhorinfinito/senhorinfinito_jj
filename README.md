@@ -21,7 +21,6 @@ A **mechanical engineer**, **Machine Learning** and **Data Science** **Practitio
   	<img title="Git" alt="Git" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/git.svg" width="40" height="40" />
   	<img title="windows" alt="windows" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/windows.svg" width="40" height="40" />
   	<img title="html" alt="html" src="https://github.com/senhorinfinito/Anant_Sakhare/blob/main/assests/html-5.svg" width="40" height="40" />  
-
 </p>
 
 ----updating----
