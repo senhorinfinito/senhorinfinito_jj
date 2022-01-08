@@ -14,7 +14,7 @@ A **Data Engineer** passionate about Data Science 📊 and computer vision 🎥.
 
 **Updates**
 - 🔭 I'm working as a **Data Engineer - I** at [wobot.ai](https://wobot.ai/)
-- 🔭 I'm also working [Machine Learning & Deep Learning](https://github.com/senhorinfinito/Learning-Basics)
+- 🔭 I'm also working on [Machine Learning & Deep Learning](https://github.com/senhorinfinito/Learning-Basics)
 - 📈 I'm currently learning from [pytorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), [CS230](https://online.stanford.edu/artificial-intelligence/free-content?category=All&course=5882) & free resource from internet.
 - 🤝 I'm looking to collabrate on Machine Learning, Deep Learning and Data Science. 
 
