@@ -24,7 +24,7 @@ A **Data Engineer** passionate about Data Science 📊 and computer vision 🎥.
 - [ ] - Revising a book - [Introduction to Machine Learning](https://github.com/amueller/introduction_to_ml_with_python)
 
 
-<!-- 
+
 **My skills include**
 
 <p align = 'center'>
@@ -37,4 +37,4 @@ A **Data Engineer** passionate about Data Science 📊 and computer vision 🎥.
 </p>
 
 
- -->
+
