@@ -22,6 +22,7 @@ A **Data Engineer** passionate about Data Science 📊 and computer vision 🎥.
 - [ ] - [Deep Learning Specilization](https://www.coursera.org/specializations/deep-learning)
 - [ ] - Writing a research paper of **Machine Learning Application in Manufacturing field**
 - [ ] - Revising a book - [Introduction to Machine Learning](https://github.com/amueller/introduction_to_ml_with_python)
+- [ ] - [Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow] 
 
 
 
