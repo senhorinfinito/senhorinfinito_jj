@@ -1,4 +1,4 @@
-### Hi there, ✋ I'm Anant Sakhare 👨,
+<!-- ### Hi there, ✋ I'm Anant Sakhare 👨,
 
 A **Data Engineer** passionate about Data Science 📊 and computer vision 🎥. I like to explore experimentaton in technological development. I ♥️ to solve things, learn a lot in  the process 🎰. 
 
@@ -37,3 +37,4 @@ A **Data Engineer** passionate about Data Science 📊 and computer vision 🎥.
 </p>
 
 
+ -->
